@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 100vh;
+  max-height: 100vh;
+}
+body {
+  background-image: url(./img/Bek.png);
+  background-repeat: repeat-x;
+}
+.left {
+  width: 803px;
+  height: 768px;
+  background: rgba(255, 255, 255, 0.91);
+}
+#bb {
+  color: #000;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  padding-top: 22.5px;
+  padding-left: 43px;
+}
+.right-a-button {
+  display: flex;
+  margin-top: -20px;
+  margin-left: 1000px;
+  gap: 35px;
+}
+button {
+  width: 121px;
+  height: 41px;
+  border: none;
+  border-radius: 39px;
+  background: #fff;
+  margin-top: -10px;
+}
+.h {
+  color: #000;
+  font-family: Coolvetica;
+  font-size: 68px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.for-p {
+  width: 462px;
+  color: #000;
+  font-family: Manrope;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-top: 42px;
+}
+.mmd{
+    margin-top: 140px;
+    margin-left: 115px;
+}
+.aa{
+    display: flex;
+    margin-top: 43px;
+    gap: 20px;
+}
+.aaaa{
+    border-radius: 0px;
+    background: #000;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
